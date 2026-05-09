@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# TIGER/Line shapefile (auto-downloaded by zipcodes.py)
+tl_2022_us_zcta520.*
